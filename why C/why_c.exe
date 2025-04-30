@@ -1,0 +1,22 @@
+Why C Language?
+C is a powerful, simple, and portable programming language. It is called a middle-level language
+ because it combines the features of both high-level and low-level languages. C is widely used for
+  system programming, especially in developing operating systems. It provides rich libraries, 
+  built-in operators, and supports procedural programming using functions. Its simplicity and ability 
+  to manage memory manually (allocating and deallocating) make it suitable for performance-critical 
+  applications. C is also easy to extend and provides a strong foundation for learning other programming 
+  languages.
+
+Applications of C:
+C is used in designing operating systems, embedded systems in electronic gadgets, and GUI-based 
+applications. It is the core of many popular systems such as the Google File System, Mozilla Firefox,
+and MySQL. C's efficiency and control make it ideal for hardware-level programming and real-time systems.
+
+Advantages of C:
+C is simple, low-cost, portable, and provides fast execution speed. Being a middle-level language, 
+it gives the programmer better control over the system and hardware.
+
+Disadvantages of C:
+C lacks features like object-oriented programming (OOP), runtime checking, and exception handling.
+ It does not have constructors, destructors, or built-in garbage collection, which means memory must
+be managed manually.
